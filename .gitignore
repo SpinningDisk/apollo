@@ -1,0 +1,25 @@
+# temp
+# cmake
+**/.cmake/
+**/build/
+**/cmake_install.cmake
+**/CMakeCache.txt
+**/Makefile
+*.make
+
+# objects libs
+*.o
+*.a
+*.so
+*.linked.o
+
+# sockets
+.sock
+
+# python
+.venv/
+.pyc
+__pycache__/
+
+# environments
+.env
